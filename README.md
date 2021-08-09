@@ -10,7 +10,7 @@
  
 ## Link to Deployed App
  
- 
+ https://jamart01.github.io/Note-Taker/
  
 ## Credits 
 
