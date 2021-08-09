@@ -10,7 +10,7 @@
  
 ## Link to Deployed App
  
- https://jamart01.github.io/Note-Taker/
+ https://floating-beyond-56773.herokuapp.com/
  
 ## Credits 
 
